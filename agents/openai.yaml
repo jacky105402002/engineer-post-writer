@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineer Post Writer"
+  short_description: "Turn engineering notes into LinkedIn and Threads posts."
+  default_prompt: "Turn these engineering notes into copy-paste-ready LinkedIn and Threads posts. Ask what signature, brand, company, or studio name should appear at the bottom if I have not provided one."
