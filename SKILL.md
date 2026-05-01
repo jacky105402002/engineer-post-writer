@@ -75,6 +75,26 @@ For each post:
 - Leave one blank line before the signature.
 - Keep the content directly copyable without explanations unless the user asks for notes.
 
+## Demo Record Workflow
+
+When maintaining this repository, if the user asks to run, test, or demo this Skill, save the generated result in the root `DEMO/` folder as a Markdown record.
+
+Use this filename format:
+
+```text
+name_YYYY-MM-DD.md
+```
+
+The demo record should include:
+
+- Source material or rough notes.
+- Signature setting, including no-signature cases.
+- Generated LinkedIn post.
+- Generated Threads post.
+- Notes about whether the output matched the Skill rules.
+
+This demo-record workflow is only for repository testing and examples. For normal Skill usage, return the copy-paste-ready posts directly.
+
 ## LinkedIn Structure
 
 Use this order when the user's material supports it:
